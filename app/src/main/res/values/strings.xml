@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jetpack: Paging</string>
+    <string name="title_paging_2">Paging 2</string>
+    <string name="title_paging_3">Paging 3</string>
+</resources>
